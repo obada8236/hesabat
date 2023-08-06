@@ -1,0 +1,185 @@
+body{
+
+    background-image: url(https://cdn.discordapp.com/attachments/1136280736861786225/1136735611122892800/Z.png);
+    background-size: 100%;
+
+    font-family: 'Brush Script MT', cursive;
+  font-family: 'Cairo';font-size: 22px;
+}
+nav {
+    background-color: #333;
+    height: 70px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+
+.h1eng{
+    color: white;
+}
+.h1ar{
+    color: white;
+}
+.b1{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+.b2{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+
+.b3{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+
+.b4{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+.b5{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+.b6{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+.b7{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+.b8{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+.b9{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+.b10{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+
+.b11{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+
+}
+.b12{
+
+  color:#ff0000;
+  text-decoration: none;
+  border: #ccc 2px solid;
+  padding: 5px 15px ;
+  border-radius: 10px;
+  line-height: 2m;
+ 
+
+}
+
+h3{
+
+  font-family: 'Brush Script MT', cursive;
+  font-family: 'Cairo';font-size: 22px;
+}
+
+.s{
+color: #504f4f;
+  
+  
+}
+.h{
+  
+  color:#504f4f
+  
+}
+  
